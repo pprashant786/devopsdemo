@@ -1,0 +1,2 @@
+secod file name file2 
+this is just to add some text to the text files which look really lonely if remain blank, don't they ?
